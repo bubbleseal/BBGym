@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<coaches>
+    <coach name='Chong Siew Han' title='Founder and head coach' img='images/c_chong.png'>
+        <desc>Chong Siew Han has vast and extensive experience in gymnastics. He had conducted numerous courses in gymnastics at national, state and school level.</desc>
+    </coach>
+    <coach name='Soo Seck Foong' title='Head coach and gymnastics judge' img='images/c_soo.png'>
+        <desc>Soo Seck Foong is a qualified FIG judge and has judged in various competitions including the Commonwealth Games 2014 in Glasgow and SEA Games 2015 in Singapore.</desc>      
+        </coach>  
+        <coach name='Lewis' title='part time' img=''></coach>
+        <coach name='Marcus Lee' title='part time' img=''></coach>
+        <coach name='Marcus Hon' title='part time' img=''></coach>
+        <coach name='Patrick' title='part time' img=''></coach>
+        <coach name='Dennis' title='part time' img=''></coach>
+        <coach name='Christine' title='part time' img=''></coach>
+        <coach name='Jolene' title='part time' img=''></coach>
+        <coach name='Yi Wen' title='part time' img=''></coach>
+        <coach name='Steff' title='part time' img=''></coach>
+    </coaches>

@@ -1,0 +1,63 @@
+<?xml version='1.0' decoding='UTF-8'?>
+<classes enrolment='35.00'>
+    <fees>
+        <fee level='active child' monthly='85.00' duration='60 mins'></fee>
+        <fee level='gymex' monthly='95.00' duration='90 mins'></fee>
+        <fee level='special' monthly='140.00' duration='45 mins'></fee>
+        <fee level='tumbling' monthly='85.00' duration='90 mins'></fee>
+        <fee level='privatecheer' monthly='85.00' duration='90 mins'></fee>
+        <fee level='rental' person='5.00' hourly='70'></fee>
+    </fees>
+    <centre area='sunway'>
+        <level type='active child'>
+            <class day='saturday' start='10.30am' end='11.30am'></class>
+            <class day='saturday' start='11.45am' end='12.45pm'></class>
+            <class day='saturday' start='2.00pm' end='3.00pm'></class>
+            <class day='sunday' start='10.30am' end='11.30am'></class>
+        </level>
+        <level type='gymex'>
+            <class day='monday' start='7.30pm' end='9.00pm'></class>
+            <class day='thursday' start='7.00pm' end='8.30pm'></class>
+            <class day='saturday' start='10.00am' end='11.30am'></class>
+            <class day='saturday' start='11.30am' end='1.00pm'></class>
+            <class day='saturday' start='1.30pm' end='3.00pm'></class>
+            <class day='saturday' start='3.00pm' end='4.30pm'></class>
+            <class day='sunday' start='11.15am' end='12.45pm'></class>
+            <class day='sunday' start='1.30pm' end='3.00pm'></class>
+        </level>
+        <level type='special'>
+            <class day='monday' start='4.30pm' end='5.15pm'></class>
+            <class day='thursday' start='4.00pm' end='4.45pm'></class>
+            <class day='thursday' start='4.15pm' end='5.00pm'></class>
+            <class day='thursday' start='5.00pm' end='5.45pm'></class>
+            <class day='thursday' start='5.15pm' end='6.00pm'></class>
+        </level>
+        <level type='tumbling'>
+            <class day='monday' start='5.45pm' end='7.15pm'></class>
+        </level>
+        <level type='privatecheer'>
+            <class day='wednesday' start='7.00pm' end='8.30pm'></class>
+        </level>
+        <level type='rental'>
+            <day value='monday'></day>
+            <day value='tuesday'></day>
+            <day value='wednesday'></day>
+            <day value='thursday'></day>
+            <day value='friday'></day>
+            <day value='saturday'></day>
+            <day value='sunday'></day>
+        </level>
+    </centre>
+    <centre area='melawati'>
+        <level type='active child'>
+            <class day='saturday' start='1.15pm' end='2.15pm'></class>
+        </level>
+        <level type='gymex'>
+            <class day='saturday' start='2.15pm' end='3.45pm'></class>
+            <class day='saturday' start='4.30pm' end='6.00pm'></class>
+        </level>
+        <level type='special'>
+            <class day='saturday' start='3.30pm' end='4.15pm'></class>
+        </level>
+    </centre>
+</classes>
